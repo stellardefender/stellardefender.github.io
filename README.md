@@ -16,7 +16,7 @@ A lightweight, browser-based implementation of a classic arcade space shooter, S
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/stellardefender/stellardefender.github.io)
+   git clone https://github.com/stellardefender/stellardefender.github.io
    ```
 
 2. Navigate to the project folder:
